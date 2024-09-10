@@ -123,3 +123,6 @@ and the repository exists.
 
 Answer 12
 Yes
+
+Answer 13
+.  ..  .git  .gitignore  README.md
